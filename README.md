@@ -1,11 +1,10 @@
 <p align="center">  
   <a href="">
-    <img alt="Mona" height="300" src="C:\Users\user\OneDrive\Desktop\MONA-MD MAIN ">
+    <img alt="Mona" height="300" src="https://i.ibb.co/DpfTrHs/4043.jpg">
     <h1 align="center">MONA MD</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Guru322"><img title="Author" src="https://img.shields.io/badge/GURU-BOT-black?style=for-the-badge&logo=telegram"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/AashifOfficial01?tab=followers"><img title="Followers" src="https://github.com/AashifOfficial01?tab=repositories"></a>
